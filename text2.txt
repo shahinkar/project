@@ -1,2 +1,4 @@
 Another File 2
 Second Line
+
+Add new line From Git
