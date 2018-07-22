@@ -2,6 +2,7 @@ Login File
 
 Add new login page
 
+<<<<<<< HEAD
 New Login 12344
 
 
@@ -11,3 +12,6 @@ new 3
 NEw 4
 
 NEw 5
+=======
+New Login 12344
+>>>>>>> Feture
